@@ -1,2 +1,3 @@
 # react-demo
-This is my Repository
+This is my Repository.
+author:Bhushan Bisen
